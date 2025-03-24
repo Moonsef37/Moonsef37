@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Moonsef37
-- 👀 I’m interested in Soft/Hard Dev and CyberSecurity
-- 🌱 I’m currently learning about CyberSec and AI
-- 📫 How to reach me on Discord : #DrinkTheMoon
+Currently working on cybersecurity projects ( access control framework and formal proofs ).
 
 <!---
 Moonsef37/Moonsef37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
